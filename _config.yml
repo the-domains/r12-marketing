@@ -1,0 +1,28 @@
+name: R12 Marketing
+favicon: null
+layout_spectrum: 0.817647731397301
+typography_spectrum: 0.7851544939912856
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#e6e6e6'
+    - '#232323'
+    - '#0071bc'
+    - '#1cb5f8'
+    - '#808080'
+  brandStrength: 0.1875
+  lightness: 0.4341758228838444
+  saturation: 0.6843845674302429
+  rhythmicContrast: 0.6496712712105364
+purpose: []
